@@ -1,0 +1,33 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ll]ist/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.csproj
+
+# Windows image file caches
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Unity3D asset database
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D auto-generated folder config
+Library/*
