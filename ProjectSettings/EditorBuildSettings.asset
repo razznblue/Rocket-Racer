@@ -10,5 +10,14 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Under.unity
-    guid: 327cba05da8b64b5bb298e35ebadc2fc
+    guid: 4ed43a25059a94e54af1ff79848d8159
+  - enabled: 1
+    path: Assets/Scenes/Gap.unity
+    guid: b505f5cbc089b49f9ab86af367662f6f
+  - enabled: 1
+    path: Assets/Scenes/Move.unity
+    guid: 4ef72e367f6bd4c25bfa27b1c93a3257
+  - enabled: 1
+    path: Assets/Scenes/Challenge.unity
+    guid: 000b9e17fb30b43c49145c849772bd67
   m_configObjects: {}
